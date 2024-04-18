@@ -1,0 +1,17 @@
+Package: GreekMythColors
+Title: A Greek Mythology Color Palette
+Version: 0.0.0.9000
+Authors@R: c(person("Danai", "Fimereli", role = c("aut", "cre"),email = "danai.fimereli@gmail.com"),
+           person("Veronica Alejanda","Caceres",
+           role = c("aut"),
+           email = "valejandracch@gmail.com"))
+Depends:
+    R (>= 3.0)
+Description: Provides a color palette inspired by paintings depicting events from the Greek mythology.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests:
+    ggplot2
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
